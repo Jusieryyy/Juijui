@@ -7,7 +7,7 @@ Aktibiti kud
         
      <h1><font size="6"><b>MY INFORMATION</b></font></h1> 
         
-     <p><em>Name:</em><font size="4" color="red"><em>Francis Jusiery P. Eclarinal</font></p>
+   <p><em>Name:</em><font size="4" color="red"><em>Francis Jusiery P. Eclarinal</font></p>
      <p><em>Address:</em><font color="purple" size="4">Napindan Taguig City</font></p>  
      <p><em>Mother's name:</em><font color="green" size="4">Maria Fe Perez</font></p> 
      <p><em>Father's name:</em><font color="gray" size="4">Raul Eclarinal</font></p>
