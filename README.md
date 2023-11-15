@@ -3,7 +3,7 @@ Aktibiti kud
 
 <html>
     
-    <body>
+
         
    <h1><font size="6"><b>MY INFORMATION</b></font></h1>   
      <p><em>Name:</em><font size="4" color="red"><em>Francis Jusiery P. Eclarinal</font></p>
@@ -14,6 +14,5 @@ Aktibiti kud
      <p><em>Strand:</em><font color="dark pink" size="4">ICT-CP</font></p>
      <p><em>Section:</em><font color="orange" size="4">CP1A-M</font></p>
         
-        
-     <body>
+     
 </html>
