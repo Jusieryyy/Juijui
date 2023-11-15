@@ -16,5 +16,5 @@ Aktibiti kud
      <p><em>Section:</em><font color="orange" size="4">CP1A-M</font></p>
         
         
-     </body>
+     <body>
 </html>
