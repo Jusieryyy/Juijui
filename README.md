@@ -3,11 +3,9 @@ Aktibiti kud
 
 <html>
     
-    <head><title>JUSIERYGANDA</title></head>
-    
     <body>
         
-      <h1><font color="blue" font="strong" face="serif" size="6"><b>MY INFORMATION</b></font></h1> 
+      <h1><font face="serif" size="6"><b>MY INFORMATION</b></font></h1> 
         
    <p><em>Name:</em><font size="4" color="red"><em>Francis Jusiery P. Eclarinal</font></p>
      <p><em>Address:</em><font color="purple" size="4">Napindan Taguig City</font></p>  
